@@ -1,4 +1,4 @@
-package com.sooyeol.flow2.ui.UiState
+package com.sooyeol.flow2.ui.uistate
 
 sealed class UiState{
     object Loading : UiState()

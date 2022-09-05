@@ -11,7 +11,7 @@
         android:theme="@style/Theme.FlowUses" >
         <activity
             android:name=".ui.MainActivity"
-            android:exported="false" >
+            android:exported="true" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
