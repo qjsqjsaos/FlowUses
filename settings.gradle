@@ -16,3 +16,4 @@ rootProject.name = "FlowUses"
 include ':app'
 include ':flow1'
 include ':shared'
+include ':flow2'
