@@ -5,6 +5,8 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.example.flow1.R
+import com.example.flow1.databinding.ActivityMainBinding
+import com.example.flow1.ui.extension.Extensions.textChangesToFlow
 import com.example.flow1.ui.widget.UiState
 import kotlinx.coroutines.*
 import kotlinx.coroutines.flow.*
