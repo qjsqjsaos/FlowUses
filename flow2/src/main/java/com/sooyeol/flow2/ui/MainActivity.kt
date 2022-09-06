@@ -6,7 +6,7 @@ import androidx.activity.viewModels
 import androidx.appcompat.app.AppCompatActivity
 import androidx.lifecycle.lifecycleScope
 import com.sooyeol.flow2.databinding.ActivityMainBinding
-import com.sooyeol.flow2.ui.uistate.UiState
+import com.example.shared.model.uistate.UiState
 import kotlinx.coroutines.launch
 
 class MainActivity : AppCompatActivity() {

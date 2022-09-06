@@ -5,7 +5,7 @@ import android.util.Log
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.viewModelScope
 import com.sooyeol.flow2.domain.usecase.UseCase
-import com.sooyeol.flow2.ui.uistate.UiState
+import com.example.shared.model.uistate.UiState
 import com.sooyeol.flow2.ui.mapper.toUiBlogList
 import kotlinx.coroutines.flow.*
 import kotlinx.coroutines.launch

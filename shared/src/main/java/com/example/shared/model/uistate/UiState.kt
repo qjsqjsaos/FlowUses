@@ -1,4 +1,4 @@
-package com.sooyeol.flow2.ui.uistate
+package com.example.shared.model.uistate
 
 sealed class UiState{
     object Loading : UiState()
